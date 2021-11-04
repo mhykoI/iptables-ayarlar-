@@ -1,4 +1,11 @@
 # iptables ayarları
+
+-Kurulum-
+git clone https://github.com/mhykoI/iptables-ayarlar-.git
+cd iptables-ayarlar-
+chmod +x iptables.sh
+bash iptables.sh
+
 Sunucu girişlerini sadece Türkiye için açmak. CentOS kullananlar içindir. / Linux
 
 
